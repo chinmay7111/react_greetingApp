@@ -1,3 +1,10 @@
+## ScreenShot
+![Web capture_16-7-2023_18924_localhost](https://github.com/chinmay7111/react_greetingApp/assets/106151106/2218d37b-8fcf-4f44-ab6a-1e268557cc84)
+![Web capture_16-7-2023_18924_localhost](https://github.com/chinmay7111/react_greetingApp/assets/106151106/c9b398f7-1c4d-4ed9-ac2d-755a6d798a9c)
+![Web capture_16-7-2023_181255_localhost](https://github.com/chinmay7111/react_greetingApp/assets/106151106/24e0296e-39ed-4744-a9e6-f2e8e98abdbb)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
